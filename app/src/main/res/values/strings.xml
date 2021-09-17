@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FoodService</string>
+    <string name="search_menu">Search</string>
+    <string name="home_menu">Home</string>
+    <string name="text_view">TextView</string>
+    <string name="content_description">Food Image</string>
+    <string name="restaurants_activity">Restaurants</string>
+    <string name="franchises_activity">Franchises</string>
+</resources>
