@@ -44,13 +44,13 @@ public class RecyclerViewAdapterForFranchises extends RecyclerView.Adapter<Recyc
             v.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
-                    String franchiseId = "";
+                    String franchiseId;
                     int pos = getAdapterPosition();
                     if (pos!=RecyclerView.NO_POSITION){
                         franchiseId = String.valueOf(franchisesList.get(pos).getId());
                         Intent intent = new Intent(view.getContext(), ResActivity.class);
                         Bundle b = new Bundle();
-                        b.putString("franchiseId", franchiseId.toString());
+                        b.putString("franchiseId", franchiseId);
                         intent.putExtras(b);
                         view.getContext().startActivity(intent);
 
