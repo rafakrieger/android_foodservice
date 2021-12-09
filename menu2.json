@@ -1,0 +1,43 @@
+[
+    {
+        "restaurant_id": 2,
+        "id": 1,
+        "name": "Suco verde",
+        "description": "Heineken",
+        "price": "R$ 10,90",
+        "gluten": "Glúten: Não",
+        "calories": "100 calorias",
+        "image": "https://produtivajunior.com.br/wp-content/uploads/2020/06/alcohol-alcoholic-alcoholic-beverage-beer-338711.jpg"
+    },
+    {
+        "restaurant_id": 2,
+        "id": 2,
+        "name": "Suco de cevadis",
+        "description": "Litrão de Crystal",
+        "price": "R$ 7,90",
+        "gluten": "Glúten: Sim",
+        "calories": "150 calorias",
+        "image": "https://www.grupopetropolis.com.br/grpptrpls/wp-content/uploads/crystal.jpg"
+    },
+    {
+        "restaurant_id": 2,
+        "id": 3,
+        "name": "Suco de Mé",
+        "description": "Aguardente de cana",
+        "price": "R$ 6,90",
+        "gluten": "Glúten: Não",
+        "calories": "80 calorias",
+        "image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/043/810/products/8178161067-cachaca-velho-barreiro-910ml-488f7f7ef6ddc4fc4216370801159956-640-0.JPG"
+    },
+    {
+        "restaurant_id": 1,
+        "id": 4,
+        "name": "Suco de corote",
+        "description": "Beba com moderação",
+        "price": "R$ 3,90",
+        "gluten": "Glúten: Não",
+        "calories": "95 calorias",
+        "image": "https://mir-s3-cdn-cf.behance.net/projects/404/3e057a103690527.Y3JvcCw4MzEsNjUwLDM0LDA.jpg"
+    },
+    {
+    

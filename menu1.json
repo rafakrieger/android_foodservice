@@ -1,0 +1,82 @@
+[
+    {
+        "restaurant_id": 1,
+        "id": 1,
+        "name": "Salada mista",
+        "description": "Folhas da estação, tomates frescos, grão de bico",
+        "price": "R$ 15,90",
+        "gluten": "Glúten: Não",
+        "calories": "190 calorias",
+        "image": "https://www.receiteria.com.br/wp-content/uploads/receitas-de-salada-mista-2.jpg"
+    },
+    {
+        "restaurant_id": 1,
+        "id": 2,
+        "name": "Canapés de abacate",
+        "description": "Abacates recheados com pico de gallo e ricota fresca",
+        "price": "R$ 18,90",
+        "gluten": "Glúten: Não",
+        "calories": "140 calorias",
+        "image": "https://nutritotal.com.br/publico-geral/wp-content/uploads/sites/2/2019/08/shutterstock_1182235288.jpg"
+    },
+    {
+        "restaurant_id": 1,
+        "id": 3,
+        "name": "Gaspacho",
+        "description": "Sopa gelada à base de hortaliças da estação",
+        "price": "R$ 21,90",
+        "gluten": "Glúten: Sim",
+        "calories": "200 calorias",
+        "image": "https://www.comidaereceitas.com.br/img/sizeswp/1200x675/2010/10/molho_gaspacho.jpg"
+    },
+    {
+        "restaurant_id": 1,
+        "id": 4,
+        "name": "Sorvete de iogurte",
+        "description": "Camadas de frozen yogurt, castanhas e mirtilos",
+        "price": "R$ 23,90",
+        "gluten": "Glúten: Não",
+        "calories": "125 calorias",
+        "image": "https://www.receitasmais.com.br/wp-content/uploads/2016/09/sorvete-de-mirtilo-1200x900.jpg"
+    },
+    {
+        "restaurant_id": 1,
+        "id": 5,
+        "name": "Tigela de açaí",
+        "description": "Polpa de açaí batida com banana e xarope de guaraná",
+        "price": "R$ 25,90",
+        "gluten": "Glúten: Não",
+        "calories": "225 calorias",
+        "image": "https://static.clubedaanamariabraga.com.br/wp-content/uploads/2016/11/acai-feito-em-casa-1024x576.jpg"
+    },
+    {
+        "restaurant_id": 1,
+        "id": 6,
+        "name": "Shots de açaí",
+        "description": "Suco de açaí batido com vodka; beba com moderação",
+        "price": "R$ 9,90",
+        "gluten": "Não",
+        "calories": "85 calorias",
+        "image": "https://www.receitas-sem-fronteiras.com/media/4c4929j4tqnyjiayrx9lw6kb6_crop.jpg/rh/acai-na-tigela.jpg"
+    },
+    {
+        "restaurant_id": 1,
+        "id": 7,
+        "name": "Coco maluco",
+        "description": "Coco seco recheado com frozen yogurt e frutas da estação",
+        "price": "R$ 16,90",
+        "gluten": "Não",
+        "calories": "115 calorias",
+        "image": "https://setelagoas.com.br/images/stories/2019/Junho/Brasil-Minas/coco0107.jpg"
+    },
+    {
+        "restaurant_id": 1,
+        "id": 8,
+        "name": "Açaí com granola",
+        "description": "Polpa de açaí batida com xarope de guaraná e banana",
+        "price": "R$ 20,90",
+        "gluten": "Não",
+        "calories": "145 calorias",
+        "image": "https://www.altoastral.com.br/media/_versions/legacy/2016/07/acai-com-granola-e1482158225662_widexl.jpg"
+    }  
+]
